@@ -1,4 +1,4 @@
-package pro.sky.java.course1.HomeWork12;
+package sky.pro.java.course1.HomeWork12;
 
 public class Author {
     private String lastName;
